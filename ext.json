@@ -1,9 +1,9 @@
 {
   "identifier": "dev.cowork.kids-chess-tutor",
   "name": "Chess Tutor",
-  "description": "A friendly, complete chess teacher for kids: illustrated lessons, checkmate puzzles, a daily challenge, and games against a leveled computer opponent with move hints. Earn XP and climb the ranks. Works fully offline; progress is saved in the note.",
+  "description": "A friendly, complete chess teacher for kids: illustrated lessons, checkmate puzzles, a daily challenge, and games against a 12-level computer opponent (now with a fast internal engine for the toughest Grandmaster, Legend, and The Machine levels) with move hints. Earn XP and climb the ranks. Works fully offline; progress is saved in the note.",
   "content_type": "SN|Component",
   "area": "editor-editor",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://justice2425.github.io/chess-tutor/index.html"
 }
