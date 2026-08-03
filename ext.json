@@ -4,6 +4,6 @@
   "description": "A friendly, complete chess teacher for kids: illustrated lessons, checkmate puzzles, a daily challenge, and games against 12 friendly animal & dinosaur characters on a genuine difficulty ladder — from a nearly-random penguin up to a strong club-level 'Machine' — who cheer, react, and coach as you play. Earn XP, badges, and ranks. Works fully offline; progress is saved in the note.",
   "content_type": "SN|Component",
   "area": "editor-editor",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "url": "https://justice2425.github.io/chess-tutor/index.html"
 }
